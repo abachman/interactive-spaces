@@ -2,6 +2,7 @@ The current version of this document is available at https://github.com/abachman
 
 # Interactive Arts 2 - Interactive Spaces - Spring 2019
 
+| | | 
 | ---              | ---                                               |
 | **department**   | Interactive Arts                                  |
 | **course**       | IA 255.01 Interactive Spaces - Dolphin 230        |
@@ -12,6 +13,7 @@ The current version of this document is available at https://github.com/abachman
 
 ### Instructor
 
+| | | 
 | ---              | ---                                   |
 | **name**         | Adam Bachman                          |
 | **pronouns**     | he / him                              |
@@ -21,6 +23,7 @@ The current version of this document is available at https://github.com/abachman
 
 ### Teaching Assistant
 
+| | | 
 | ---              | ---               |
 | **name**         | Dione Lee         |
 | **pronouns**     | she / her         |
