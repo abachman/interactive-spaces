@@ -1,0 +1,21 @@
+# Assignment 01 - Data Source Brainstorming
+ 
+_Due in class next week, Feb 4._
+
+**Find at least three sources of data on MICA's campus** that we have not already discussed. They may be in any location, though **no more than two may be in the same location**.
+
+At least one source must be a _micro_ data source (small scale, localized, unique to this location) and at least one source must be a _macro_ data source (larger scale, common to many locations).
+
+For each data source:
+
+1. Collect an image of the location you found
+2. Prepare a paragraph of text describing the data source. For example, you could describe the nature of the data produced, how it is generated, or ideas on how the data could be collected.
+3. Sketch a "visualization" that responds to changes in the data.
+
+Please prepare your findings as a short (about one slide per source) Google Doc presentation or landscape oriented PDF document and be ready to share it with the class when we meet next week. 
+
+NOTES: 
+- The data sources may be speculative or "impossible" in nature. *There are no wrong sources* at this stage.
+- Don't spend a lot of energy on your words for the presentation part, the intention of this exercise is discussion and idea gathering.
+- It's better to present 6 sketches than 3 final drafts. A photo, a paragraph, and a rough sketch are plenty of material for discussion.
+- Variations on ideas we've already heard are great. Put your own spin on an "easy" data source or find an angle someone else may have missed.
