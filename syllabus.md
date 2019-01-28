@@ -28,7 +28,7 @@ The current version of this document is available at https://github.com/abachman
 | **name**         | Dione Lee         |
 | **pronouns**     | she / her         |
 | **email**        | dlee04@mica.edu   |
-| **links**        |                   |
+| **links**        | [personal site](https://dione-lee.com/), [MICA portfolio](http://portfolios.mica.edu/dlee040315) |
 
 ## Description
 
