@@ -1,0 +1,19 @@
+# Assignment 2
+
+Turn the design sketches you prepared for the evening hackathon into a finished design proposal.
+
+Format: Short presentation describing your proposed station in enough detail that someone else could build the object.
+
+Including:
+
+* **Rough dimensions of the station and description of materials involved.** You don't have to know precisely how to build the thing, but you should have enough of an idea that we can tell what materials and how much of each material are needed.
+* **Technical requirements.** Thinking simple, mostly hardware, not working code. "You will require a light sensor and a microcontroller with WiFi access" is a good start. Your list should include every part needed for the build to the best of your knowledge. 
+* **User experience description.** What will people experience when they encounter the object? How does it change over time? Is it animated somehow? Does it change when it takes a reading?
+* **Location description including photo with object rendered or otherwise depicted in the space.** This should be descriptive enough that someone would know where to put it and how to orient it in space.
+* **Description of the data to be collected and its significance to the project.** Help us understand what you are measuring and why. Connect the physical to the virtual. What is reality?
+
+Be prepared to explain the connection of your station design to the theme we've selected for the project, *Pulse*, the life of the MICA community, and the other stations in our project.
+
+Also prepare responses to any questions or feedback that come out of your original presentation in class on Feb 18.
+
+This assignment will be due in class on February 25. Be prepared to share your presentation as a group with the class and with our guests from karlssonwilker.
